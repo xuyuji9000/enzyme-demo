@@ -1,3 +1,3 @@
-# redux demo
+# enzyme demo
 
-This is a redux demo.
+This is an enzyme demo.
